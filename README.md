@@ -28,9 +28,10 @@ This repository contains various templates for common repository items. We shoul
 
 1. [Issues](#issues)
 2. [Usage](#usage)
-3. [Spatial Metadata](#spatial-metadata)
-4. [Source Information](#source-information)
-5. [Required Environment.](#required-environment)
+3. [Methods](#methods-optional)
+4. [Spatial Metadata](#spatial-metadata)
+5. [Source Information](#source-information)
+6. [Required Environment.](#required-environment)
 
 ### Issues
 For problems or suggestions, please open an [issue](https://github.com/WWU-IETC-R-Collab/Template/issues) or create a [pull request](https://github.com/WWU-IETC-R-Collab/Template/pulls).
